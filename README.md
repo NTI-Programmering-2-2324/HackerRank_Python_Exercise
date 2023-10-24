@@ -11,9 +11,9 @@ Lista på övningar i python ni kan göra på HackerRank
 - [Print Function](htts://www.hackerrank.com/challenges/python-print/problem?isFullScreen=true)
 
 **Basic Data Types**
--[Lists](https://www.hackerrank.com/challenges/python-lists/problem?isFullScreen=true)
--[Tuples](https://www.hackerrank.com/challenges/python-tuples/problem?isFullScreen=true)
+- [Lists](https://www.hackerrank.com/challenges/python-lists/problem?isFullScreen=true)
+- [Tuples](https://www.hackerrank.com/challenges/python-tuples/problem?isFullScreen=true)
 
 **Strings**
--[String Split and Join](https://www.hackerrank.com/challenges/python-string-split-and-join/problem?isFullScreen=true)
--[What's Your Name](https://www.hackerrank.com/challenges/whats-your-name/problem?isFullScreen=true)
+- [String Split and Join](https://www.hackerrank.com/challenges/python-string-split-and-join/problem?isFullScreen=true)
+- [What's Your Name](https://www.hackerrank.com/challenges/whats-your-name/problem?isFullScreen=true)
