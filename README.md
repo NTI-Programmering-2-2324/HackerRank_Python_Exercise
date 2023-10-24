@@ -8,7 +8,7 @@ Lista på övningar i python ni kan göra på HackerRank
 - [Division](https://www.hackerrank.com/challenges/python-division/problem?isFullScreen=true)
 - [Loops](https://www.hackerrank.com/challenges/python-division/problem?isFullScreen=true)
 - [Write a function](https://www.hackerrank.com/challenges/python-division/problem?isFullScreen=true)
-- [Print Function](htts://www.hackerrank.com/challenges/python-print/problem?isFullScreen=true)
+- [Print Function](https://www.hackerrank.com/challenges/python-print/problem?isFullScreen=true)
 
 **Basic Data Types**
 - [Lists](https://www.hackerrank.com/challenges/python-lists/problem?isFullScreen=true)
