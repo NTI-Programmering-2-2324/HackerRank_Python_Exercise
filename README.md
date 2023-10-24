@@ -1,6 +1,6 @@
 # HackerRank Python Exercise 🐍
 
-Innan du börjar med övningarna, ha följande i åtanke:
+Innan ni börjar med övningarna, ha följande i åtanke:
 
 > **Notera:** Om ni har problem med att registrera er via skolans Google-konto, kan ni använda ert privata Google-konto istället. Det är dock inte ett krav att ha ett konto för att kunna göra övningarna; ni kan bara klicka på krysset i övre högra hörnet. Fördelen med att ha ett konto är att era framsteg sparas på sidan.
 
