@@ -1,5 +1,8 @@
 # HackerRank_Python_Exercise
-Lista på övningar i python ni kan göra på HackerRank
+
+## Här är en lista på Python-övningar ni kan testa på HackerRank:
+
+> **Notera:** Om ni har problem med att registrera er med skolans Google-konto, använd då ert privata Google-konto istället. Men det är inte ett krav att ha ett konto för att kunna göra övningarna. Fördelen med ett konto är att era framsteg sparas på sidan.
 
 **Introduction**
 - [Say "Hello, World!"](https://www.hackerrank.com/challenges/py-hello-world/problem?isFullScreen=true)
@@ -17,3 +20,15 @@ Lista på övningar i python ni kan göra på HackerRank
 **Strings**
 - [String Split and Join](https://www.hackerrank.com/challenges/python-string-split-and-join/problem?isFullScreen=true)
 - [What's Your Name](https://www.hackerrank.com/challenges/whats-your-name/problem?isFullScreen=true)
+
+**Set**
+- [Set.add()](https://www.hackerrank.com/challenges/py-set-add/problem?isFullScreen=true)
+- [Set.discard(),.remove() & .pop()](https://www.hackerrank.com/challenges/py-set-discard-remove-pop/problem?isFullScreen=true)
+
+**Built-Ins**
+- [Input](https://www.hackerrank.com/challenges/input/problem?isFullScreen=true)
+
+**Error and Exceptions**
+- [Exceptions](https://www.hackerrank.com/challenges/exceptions/problem?isFullScreen=true)
+
+
